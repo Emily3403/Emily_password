@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/emily_password/__init__.py
+src/emily_password/py.typed
+src/emily_password/slap_that_like_button.py
+src/emily_password.egg-info/PKG-INFO
+src/emily_password.egg-info/SOURCES.txt
+src/emily_password.egg-info/dependency_links.txt
+src/emily_password.egg-info/not-zip-safe
+src/emily_password.egg-info/requires.txt
+src/emily_password.egg-info/top_level.txt
